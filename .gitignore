@@ -3,5 +3,6 @@
 *.pyo
 *.project
 *.settings
+*.pydevproject
 /edit/
 /manage.py
