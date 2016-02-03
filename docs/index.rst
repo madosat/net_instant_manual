@@ -5,14 +5,14 @@ Manual utilizare Net-Instant
    :maxdepth: 2
    :glob:
     
-   menus/administrare
-   menus/configurator
-   menus/nomenclatoare
-   menus/urmarire
-   menus/urmarire_ext
-   menus/arhiva
-   menus/mentenanta
-   menus/emi
+   administrare
+   configurator
+   nomenclatoare
+   urmarire
+   urmarire_ext
+   arhiva
+   mentenanta
+   emi
    
 
    
