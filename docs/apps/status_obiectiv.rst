@@ -1,0 +1,4 @@
+Obiectiv-stare
+===================
+
+in lucru

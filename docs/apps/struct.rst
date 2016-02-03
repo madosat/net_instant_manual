@@ -1,4 +1,4 @@
 Structura
 =========
 
-todo
+in lucru

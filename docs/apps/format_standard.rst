@@ -1,4 +1,4 @@
-Functionalitati
+Format standard
 ===============
 
 in lucru

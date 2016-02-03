@@ -1,4 +1,4 @@
 Configurare initiala
 ====================
 
-todo
+in lucru
