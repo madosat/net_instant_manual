@@ -5,6 +5,7 @@ Manual utilizare Net-Instant
    :maxdepth: 2
    :glob:
     
+   general
    administrare
    configurator
    nomenclatoare

@@ -1,0 +1,4 @@
+Configurare initiala
+====================
+
+todo
