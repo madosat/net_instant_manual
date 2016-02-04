@@ -1,0 +1,4 @@
+Evenimente operationale
+=======================
+
+in lucru

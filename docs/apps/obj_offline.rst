@@ -1,0 +1,4 @@
+Obiective offline
+=================
+
+in lucru
