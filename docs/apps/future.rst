@@ -1,4 +1,4 @@
-Functionalitati
-===============
+Caracteristici
+==============
 
 in lucru
