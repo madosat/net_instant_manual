@@ -22,7 +22,7 @@ In cadrul companiei de securitate, beneficiarii directi ai serviciului sunt:
 
 .. figure:: static/res_img/topo.png
    :alt: Arhitectura sistem
-   :name: test name
+   :name: arhitectura_sistem
 
    Arhitectura sistem
 

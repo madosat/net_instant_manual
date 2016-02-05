@@ -178,7 +178,7 @@ html_show_sphinx = False
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'NetInstantDoc'
 
-
+numfig = True
 # -- Options for LaTeX output ---------------------------------------------
 
 latex_elements = {

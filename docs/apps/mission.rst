@@ -1,4 +1,6 @@
 Misiuni
 =======
 
-in lucru
+.. role:: ref
+
+:ref:`inlucru <arhitectura_sistem>`
