@@ -21,11 +21,13 @@ In cadrul companiei de securitate, beneficiarii directi ai serviciului sunt:
  - Echipa tehnica.
 
 .. figure:: static/res_img/topo.png
-   :alt: Topografie sistem
+   :alt: Arhitectura sistem
+   :name: test name
 
-   Fig.1
+   Arhitectura sistem
 
-Arhitectura sistemului (fig.1), contine:
+Arhitectura sistemului, contine:
+
  - **Serverul principal**. Sistem de operare Linux, Ubuntu Server. Limbajul folosit pentru implementare: Python. Baza de date poate fi MySQL, Oracle, PostgreSQL.
  - **Serverul de backup**. Serviciul e instalat pe un al doilea server. Acesta functioneaza permanent si sta in sincron cu serverul principal. In momentul cand serverul principal nu mai e functional, evenimentele se trimit catre serverul de backup.
  - **Statiile de lucru**, PC-uri obisnuite, pe care trebuie sa ruleze un browser modern, Chrome sau Firefox. Sistemul de operare poate fi Ubuntu Desktop. In fig.1 statiile de lucru sunt grupate in doua dispecerate, din care unul este dispecerat master.
