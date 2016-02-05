@@ -3,4 +3,4 @@ Misiuni
 
 .. role:: ref
 
-:ref:`inlucru <arhitectura_sistem>`
+:ref:`in lucru <arhitectura_sistem>`
