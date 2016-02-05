@@ -22,3 +22,5 @@ In cadrul companiei de securitate, beneficiarii directi ai serviciului sunt:
  - Sefii de dispecerate.
  - Echipa tehnica.
 
+.. image:: static/res_img/topo.png
+
