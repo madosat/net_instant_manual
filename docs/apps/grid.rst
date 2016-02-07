@@ -9,9 +9,13 @@ Gridul este frecvent folosit in aplicatii pentru vizualizare, cautare, adaugare 
 
    Elemente de baza in grid
 
+:Denumire grid: Numele gridului, informatii generale despre grid
+:Denumiri coloane:  Nume coloane, click pe zona, sorteaza ascendent sau descendent informatia in grid
+
 .. list-table:: Semnificatie elemente grid
    :widths: 15 30
    :header-rows: 0
+   :stub-columns: 1
 
    * - **(1)** Denumire grid
      - Numele gridului, informatii generale despre grid
