@@ -35,8 +35,16 @@ Gridul este frecvent folosit in aplicatii pentru vizualizare, cautare, adaugare 
 **(8) Total inregistrari:**
    Numarul inregistrarilor(dupa filtrare) care pot fi vazute in grid. In figura, numarul este 14.
 
+**Detalii butoane in grid:**
+ - Adauga/Editeaza
 
+ .. image:: static/res_img/grid_edit.jpeg
+    :width: 420pt
+    :name: grid_edit
 
+ (in lucru)
+
+ 
 
 
    
