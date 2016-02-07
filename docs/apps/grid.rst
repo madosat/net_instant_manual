@@ -11,13 +11,16 @@ Gridul este frecvent folosit in aplicatii pentru vizualizare, cautare, adaugare 
 
 .. csv-table:: Semnificatie elemente grid
    :widths: 15 30
-   :class: longtable
-
+   
    "**(1)** Denumire grid","Numele gridului, informatii generale despre grid."
    "**(2)** Denumiri coloane","Nume coloane, click pe zona, sorteaza ascendent sau descendent informatia in grid."
    "**(3)** Filtru rapid","Cauta in coloana dupa conditia `contine`. **Enter** initiaza cautarea. Pentru a anula efectul filtrului pe o coloana, se goleste continutul campului de filtrare. Cautarea e independenta de marimea literei(a sau A)."
    "**(4)** Zona de marcare","Acolo unde aceasta coloana exista, se pot marca in mod independent randuri dintr-o pagina pentru ca ulterior sa se execute bulk (la gramada) o actiune specifica (ex. modifica continutul unei coloane pentru toate randurile marcate.)"
    "**(5)** Rand selectat","Spre deosebire de randurile marcate, intr-un grid poate sa existe un singur rand selectat. Daca dorim sa executam o actiune la nivelul unui rand, il selectam dupa care initiem actiunea (ex. modifica sau sterge rand)"
+
+.. csv-table:: 
+   :widths: 15 30
+
    "**(6)** Zona cu butoane","Zona ce permite actiuni in grid. De la stanga la dreapta, rolul butoanelor este:
    
        - Adauga rand nou.
