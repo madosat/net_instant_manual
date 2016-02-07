@@ -12,7 +12,6 @@ Gridul este frecvent folosit in aplicatii pentru vizualizare, cautare, adaugare 
 .. list-table:: Semnificatie elemente grid
    :widths: 15 30
    :header-rows: 0
-   :stub-columns: 1
 
    * - **(1)** Denumire grid
      - Numele gridului, informatii generale despre grid
