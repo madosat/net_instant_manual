@@ -1,18 +1,17 @@
 Grid
 ===============
 
-Gridul este frecvent folosit in aplicatii pentru vizualizare, cautare, adaugare sau modificare informatii. Indiferent de natura informatiei, modul de utilizare al gridului, e acelasi. In general, gridul e atasat unui tabel din baza de date. Presupunand ca tabelul contine 100000 randuri, niciodata nu vor fi aduse in browser toate randurile. Filtrarile si paginatia se executa la nivelul serverului astfel incat in browser, la un moment dat e adusa o singura pagina (10,20,50 sau 300 randuri).
-
 .. figure:: static/res_img/grid_elem.jpeg
    :width: 450pt
    :name: grid_elem
 
    Elemente de baza in grid
 
+Gridul este frecvent folosit in aplicatii pentru vizualizare, cautare, adaugare sau modificare informatii. Indiferent de natura informatiei, modul de utilizare al gridului, e acelasi. In general, gridul e atasat unui tabel din baza de date. Presupunand ca tabelul contine 100000 randuri, niciodata nu vor fi aduse in browser toate randurile. Filtrarile si paginatia se executa la nivelul serverului astfel incat in browser, la un moment dat e adusa o singura pagina (10,20,50 sau 300 randuri).
 
 .. csv-table:: Semnificatie elemente grid
    :widths: 15 30
-   :class: ltxtable
+   :class: longtable
 
    "**(1)** Denumire grid","Numele gridului, informatii generale despre grid."
    "**(2)** Denumiri coloane","Nume coloane, click pe zona, sorteaza ascendent sau descendent informatia in grid."
