@@ -9,16 +9,35 @@ Gridul este frecvent folosit in aplicatii pentru vizualizare, cautare, adaugare 
 
    Elemente de baza in grid
 
+.. list-table:: Semnificatie elemente grid
+   :widths: 15 30
+   :header-rows: 0
 
---Denumire grid           eyuryeuryeuyruee yeryteyrter
---Denumire coloane        trttrttrtrtr
+   * - **(1)** Denumire grid
+     - Numele gridului, informatii generale despre grid
+    
+   * - **(2)** Denumiri coloane
+     - Nume coloane, click pe zona, sorteaza ascendent sau descendent informatia in grid
+     
+   * - **(3)** Filtru rapid
+     - 
+    
+   * - **(4)** Zona de marcare
+     - 
+     
+   * - **(5)** Rand selectat
+     - 
 
-3. Filtru rapid
-4. Zona de marcare
-5. Rand selectat
-6. Zona de butoane
-7. Paginatie
-8. Total inregistrari
+   * - **(6)** Zona cu butoane
+     - 
+   
+   * - **(7)** Paginatie
+     - 
+
+   * - **(8)** Total inregistrari
+     - 
+
+
 
 
 
