@@ -10,8 +10,8 @@ Gridul este frecvent folosit in aplicatii pentru vizualizare, cautare, adaugare 
    Elemente de baza in grid
 
 
-:Denumire grid:           eyuryeuryeuyruee yeryteyrter
-:Denumire coloane:        trttrttrtrtr
+--Denumire grid           eyuryeuryeuyruee yeryteyrter
+--Denumire coloane        trttrttrtrtr
 
 3. Filtru rapid
 4. Zona de marcare
