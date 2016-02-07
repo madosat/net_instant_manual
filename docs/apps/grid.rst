@@ -12,7 +12,7 @@ Gridul este frecvent folosit in aplicatii pentru vizualizare, cautare, adaugare 
 
 .. csv-table:: Semnificatie elemente grid
    :widths: 15 30
-   :class: longtable
+   :class: ltxtable
 
    "**(1)** Denumire grid","Numele gridului, informatii generale despre grid."
    "**(2)** Denumiri coloane","Nume coloane, click pe zona, sorteaza ascendent sau descendent informatia in grid."
