@@ -1,6 +1,8 @@
 Caracteristici
 ==============
 
+.. role:: ref
+
 1. Receptie, prelucrare, afisare evenimente [1]_ de la obiective supravegheate.
 2. Rutare ID obiectiv, la intrare. Evenimentele de la obiective cu ID-uri diferite, pot fi directionate catre un ID unic.
 3. Rutare ID obiectiv, la iesire. Evenimentele primite si directionate catre un obiectiv inregistrat, pot fi retransmise in mod automat, catre un subcontractor pentru dispecerizare dubla.
@@ -16,10 +18,10 @@ Caracteristici
  Administratorul poate modifica drepturile de acces in aplicatie.
 
 5. Trimite automat sau manual, sms, email, configurabil ca mesaj si forma.
-6. Rezolvare incidente [2]_ pe termen scurt, mediu si lung(alarme, lipsa comunicare, lipsa alimentare etc.). Incidentele pe termen scurt (minute) cum ar fi alarmele, se trateaza preluand evenimentul de start. La final, se incheie printr-o rezolutie (ex.: alarma test politie, alarma falsa, alarma reala etc.). Incidentele pe termen mediu (ore) se trateaza prin punerea obiectivului sub urmarire. Aici, dispecerii pot analiza pe baza evolutiei evenimentelor, daca incidentul s-a rezolvat sau nu(lipsa alimentare, lipsa comunicare). In cazul problemelor tehnice, dispecerii creaza tickete pe care le preiau echipele tehnice.
+6. Rezolvare incidente [2]_ pe termen scurt, mediu si lung(alarme, lipsa comunicare, lipsa alimentare etc.). Incidentele pe termen scurt (minute) cum ar fi alarmele, se trateaza preluand evenimentul de start. La final, se incheie printr-o rezolutie (ex.: alarma test politie, alarma falsa, alarma reala etc.). Incidentele pe termen mediu (ore) se trateaza prin punerea obiectivului sub urmarire. Aici, dispecerii pot analiza pe baza evolutiei evenimentelor, daca incidentul s-a rezolvat sau nu(lipsa alimentare, lipsa comunicare). In cazul problemelor tehnice, dispecerii creaza :ref:`tickete <ticket>` pe care le preiau echipele tehnice.
 7. Evidenta riguroasa, automata a obiectivelor offline, a obiectivelor ramase dezarmate in afara programului.
 8. Gestionare echipaje de interventie. Trimitere in misiune pe baza distantei fata de obiectiv, localizarea si urmarirea echipajului pe toata durata misiunii, masurarea precisa a timpului de interventie.
-9. Sistem de ticketing pentru evidenta si rezolvare probleme in sistem.
+9. :ref:`Sistem de ticketing <ticket>` pentru evidenta si rezolvare probleme in sistem.
 10. Generare de rapoarte pentru clienti.
 11. Comunicare facila cu personalul tehnic, se trimit email-uri cu atasamente ca:
     
