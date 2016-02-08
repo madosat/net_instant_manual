@@ -35,14 +35,17 @@ Gridul este frecvent folosit in aplicatii pentru vizualizare, cautare, adaugare 
 **(8) Total inregistrari:**
    Numarul inregistrarilor(dupa filtrare) care pot fi vazute in grid. In figura, numarul este 14.
 
-**Detalii butoane in grid:**
+**Operatiuni in grid** (declansate de butoanele din **Zona de butoane(6)**)
+
  - Adauga/Editeaza
 
- .. image:: static/res_img/grid_edit.jpeg
-    :width: 420pt
-    :name: grid_edit
+   .. image:: static/res_img/grid_edit.jpeg
+      :width: 420pt
+      :name: grid_edit
 
- (in lucru)
+   Fereastra de adaugare este foarte asemanatoare cu cea de editare. Difera titlul si butoanele de navigare in grid(3). Pentru adaugare, apare in titlu **Adaugare ...** iar la editare apare **Modificare ...**. Butoanele de navigare apar doar la editare. Fereastra de editare(adaugare) se deschide ca un dialog modal [#]. Poate fi mutata in orice pozitie a suprafetei de afisare. Dupa fiecare salvare se poate observa in grid, randul actualizat. Campurile obligatorii de completat, sunt marcate cu **(*)**.
+   
+   Campul `Nume manager` din figura, are cateva particularitati, respectiv butonul 1 si campul needitabil 2. Prezenta acestor elemente indica faptul ca tabelul pe care il editam este in legatura cu un alt tabel.
 
  
 
