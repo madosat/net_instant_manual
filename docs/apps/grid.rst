@@ -12,7 +12,7 @@ Gridul este frecvent folosit in aplicatii pentru vizualizare, cautare, adaugare 
 **(1) Denumire grid:**
   Numele gridului, informatii generale despre grid. 
 **(2) Denumiri coloane:**
-  Cauta in coloana dupa conditia `contine`. **Enter** initiaza cautarea. Pentru a anula efectul filtrului pe o coloana, se goleste continutul campului de filtrare. Cautarea e independenta de marimea literei(a sau A).
+  Nume coloane, click pe zona, sorteaza ascendent sau descendent informatia in grid. 
 **(3) Filtru rapid:**
   Cauta in coloana dupa conditia `contine`. **Enter** initiaza cautarea. Pentru a anula efectul filtrului pe o coloana, se goleste continutul campului de filtrare. Cautarea e independenta de marimea literei(a sau A).
 **(4) Zona de marcare:**
