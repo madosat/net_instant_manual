@@ -37,29 +37,32 @@ Gridul este frecvent folosit in aplicatii pentru vizualizare, cautare, adaugare 
 
 **Operatiuni in grid** (declansate de butoanele din **Zona de butoane(6)**):
 
+  - **Adauga/Editeaza**
 
-
-.. image:: static/res_img/grid_edit.jpeg
-   :width: 420pt
-   :name: grid_edit
-
-Adauga/Editeaza
+     .. image:: static/res_img/grid_edit.jpeg
+        :width: 420pt
+        :name: grid_edit
    
-   Fereastra de adaugare este foarte asemanatoare cu cea de editare. Difera titlul si butoanele de navigare in grid(3). Pentru adaugare, apare in titlu **Adaugare ...** iar la editare apare **Modificare ...**. Butoanele de navigare apar doar la editare. Fereastra de editare(adaugare) se deschide ca un dialog modal [#]_. Poate fi mutata in orice pozitie a suprafetei de afisare. Dupa fiecare salvare se poate observa in grid, randul actualizat. Campurile obligatorii de completat, sunt marcate cu **(*)**.
+     Fereastra de adaugare este foarte asemanatoare cu cea de editare. Difera titlul si butoanele de navigare in grid(3). Pentru adaugare, apare in titlu **Adaugare ...** iar la editare apare **Modificare ...**. Butoanele de navigare apar doar la editare. Fereastra de editare (adaugare) se deschide ca un dialog modal [#]_. Poate fi mutata in orice pozitie a suprafetei de afisare. Dupa fiecare salvare se poate observa in grid, randul actualizat. Campurile obligatorii de completat, sunt marcate cu **(*)**.
  
-    Campul `Nume manager` din figura, are cateva particularitati, respectiv butonul 1 si campul needitabil 2. Prezenta acestor elemente indica faptul ca tabelul pe care il editam este in legatura cu un alt tabel. Fie A tabelul editat si B, tabelul cu care se conecteaza A. Pentru editare camp `Nume manager`:
+     Campul `Nume manager` din figura, are cateva particularitati, respectiv butonul 1 si campul needitabil 2. Prezenta acestor elemente indica faptul ca tabelul pe care il editam este in legatura cu un alt tabel. Fie A tabelul editat si B, tabelul cu care se conecteaza A. Pentru editare camp `Nume manager`:
 
-    - Click pe elementul 0 si se tasteaza informatia dorita. Apare lista cu randurile din B. Pe masura ce se tasteaza, lista devine mai scurta.
-    - Se selecteaza linia dorita din lista. Elementul 2 se completeaza automat cu id-ul randului din tabelul B.
-    - Daca nu se gaseste informatia in lista(poate trebuie adaugata in tabelul B), click pe butonul 1. Se deschide o fereastra care contine gridul atasat tabelului B. Se cauta, editeaza sau adauga informatia dorita, dupa care dubluclick pe randul corespunzator informatiei si fereastra se inchide, elementele 0 si 2 se completeaza automat.
-    - Dupa salvare, randului editat in tabelul A, i s-a atasat randul selectat in tabelul B.
+     - Click pe elementul 0 si se tasteaza informatia dorita. Apare lista cu randurile din B. Pe masura ce se tasteaza, lista devine mai scurta.
+     - Se selecteaza linia dorita din lista. Elementul 2 se completeaza automat cu id-ul randului din tabelul B.
+     - Daca nu se gaseste informatia in lista(poate trebuie adaugata in tabelul B), click pe butonul 1. Se deschide o fereastra care contine gridul atasat tabelului B. Se cauta, editeaza sau adauga informatia dorita, dupa care dubluclick pe randul corespunzator informatiei si fereastra se inchide, elementele 0 si 2 se completeaza automat.
+     - Dupa salvare, randului editat in tabelul A, i s-a atasat randul selectat in tabelul B.
 
-      .. admonition:: Important
-      
-         Daca elementul 2 nu e completat, campul `Nume manager` se considera nul.
+       .. admonition:: Important
 
-   Butoanele Copy si Paste, ajuta la editarea randurilor similare.
+          Daca elementul 2 nu e completat, campul `Nume manager` se considera nul.
 
+     Butoanele Copy si Paste, ajuta la editarea randurilor similare. Click pe `Copy` salveaza informatia din fereastra de editare local in browser. Se poate inchide acum fereastra de editare. Daca o deschidem din nou, se observa butonul `Paste` inconjurat cu un chenar rosu (exista ceva memorat). Click pe `Paste` completeaza campurile cu informatia memorata.
+
+  - **Cautare**
+
+    .. image:: static/res_img/grid_edit.jpeg
+        :width: 420pt
+        :name: grid_edit1
 
 .. [#] Folosim termenul **eveniment**, pentru orice mesaj trimis de catre comunicator.  
 
